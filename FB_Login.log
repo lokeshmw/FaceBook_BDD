@@ -1,0 +1,53 @@
+2024-04-11 10:49:57,544 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 10:49:57,581 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 10:49:57,581 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 10:49:57,581 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 10:50:48,155 - utilities.logger - INFO - User attempted login with email: johncena92424@gmail.com and password: Loki@96067832
+2024-04-11 10:50:48,155 - utilities.logger - INFO - User attempted login with email: johncena92424@gmail.com and password: Loki@96067832
+2024-04-11 10:50:48,210 - utilities.logger - INFO - Received expected error message: The password you've entered is incorrect.
+2024-04-11 10:51:19,833 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 10:51:19,834 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 10:51:19,837 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 10:51:19,841 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 10:52:10,380 - utilities.logger - INFO - User attempted login with email: johncena92424@gmail.com and password: Loki@9606
+2024-04-11 10:52:10,380 - utilities.logger - INFO - User attempted login with email: johncena92424@gmail.com and password: Loki@9606
+2024-04-11 10:52:10,404 - utilities.logger - ERROR - Success message verification FAILED. Element not found.
+2024-04-11 12:48:09,455 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:48:09,456 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:49:00,087 - utilities.logger - INFO - User attempted login with email: johncena92424@gmail.com and password: Loki@96067832
+2024-04-11 12:49:00,221 - utilities.logger - INFO - Received expected error message: The password you've entered is incorrect.
+2024-04-11 12:49:38,864 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:49:38,866 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:50:29,556 - utilities.logger - INFO - User attempted login with email: johncena92424@gmail.com and password: Loki@9606
+2024-04-11 12:50:29,585 - utilities.logger - ERROR - Success message verification FAILED. Element not found.
+2024-04-11 12:50:59,286 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:50:59,288 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:51:49,990 - utilities.logger - INFO - User attempted login with email: johncenaddd92424@gmail.com and password: Loki@9606
+2024-04-11 12:51:50,037 - utilities.logger - INFO - Received expected error message: The email address you entered isn't connected to an account.
+2024-04-11 12:52:22,097 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:52:22,097 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:53:12,776 - utilities.logger - INFO - User attempted login with email: johncena92424gmail@.com and password: Loki@9606
+2024-04-11 12:53:13,078 - utilities.logger - ERROR - Error message verification FAILED. Element not found.
+2024-04-11 12:53:45,479 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:53:45,481 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:54:35,922 - utilities.logger - INFO - User attempted login with phone: 8105000676 and password: Loki@9606sdas
+2024-04-11 12:54:35,962 - utilities.logger - ERROR - Error message verification FAILED. Element not found.
+2024-04-11 12:55:08,188 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:55:08,188 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:55:58,843 - utilities.logger - INFO - User attempted login with phone: 8105000676 and password: Loki@9606
+2024-04-11 12:55:58,874 - utilities.logger - ERROR - Success message verification FAILED. Element not found.
+2024-04-11 12:56:38,927 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:56:38,929 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:57:12,763 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:57:12,764 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:58:03,357 - utilities.logger - INFO - User attempted login with phone: 8105000456 and password: Loki@9606
+2024-04-11 12:58:03,381 - utilities.logger - ERROR - Error message verification FAILED. Element not found.
+2024-04-11 12:58:39,333 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:58:39,333 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:59:12,925 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:59:12,926 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 12:59:48,951 - utilities.logger - INFO - Facebook login page loaded successfully.
+2024-04-11 12:59:48,952 - utilities.logger - INFO - User and test details for login retrieved.
+2024-04-11 13:00:39,062 - utilities.logger - INFO - User attempted login with empty fields.
+2024-04-11 13:00:39,095 - utilities.logger - INFO - Received expected success message: The email address or mobile number you entered isn't connected to an account. Find your account and log in.
+2024-04-11 13:49:23,749 - utilities.logger - INFO - dfd
